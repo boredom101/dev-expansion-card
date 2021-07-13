@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name RP2040_minimal)(type KiCad)(uri ${KIPRJMOD}/RP2040_minimal.pretty)(options "")(descr ""))
+  (lib (name Expansion_Card)(type KiCad)(uri ${KIPRJMOD}/Expansion_Card.pretty)(options "")(descr ""))
+)

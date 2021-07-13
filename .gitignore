@@ -1,0 +1,13 @@
+# KiCAD backup
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+_saved_*
+**/*-backups/
+
+# Netlists
+*.net
+
+# Footprint info cache
+fp-info-cache
